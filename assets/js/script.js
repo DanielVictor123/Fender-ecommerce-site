@@ -11,7 +11,7 @@ async function fetchRandomImage() {
 
 // Show success modal
 function showSuccessModal() {
-  document.getElementById("success-modal").style.display = "block";
+  document.getElementById("success-modal").style.display = "block"; 
 }
 
 // Sparkles effect
